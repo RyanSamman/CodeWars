@@ -39,7 +39,7 @@ Combining the two, you can create a function, `f(x - h) + a`
 
 From the comment, you can see that 
 
-`![Diamond Formula picture](diamondformula.jpeg)`
+![Diamond Formula picture](diamondformula.jpeg)
 
 Where n is the size of the diamond:
 - The blue line represents the width of the diamond in each line
